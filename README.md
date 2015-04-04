@@ -1,6 +1,5 @@
 # ps-jwt
-
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+# Angular_jwt
 version 0.11.1.
 
 ## Build & development
